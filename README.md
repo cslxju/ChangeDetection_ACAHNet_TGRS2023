@@ -50,3 +50,5 @@
 
 ## ######################################## Using the code should cite the following paper ######################################## 
 [1] X. Zhang, S. Cheng*, L. Wang and H. Li, "Asymmetric Cross-Attention Hierarchical Network Based on CNN and Transformer for Bitemporal Remote Sensing Images Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023
+
+[2] X. Zhang, L. Wang and S. Cheng, "A Multiscale Cascaded Cross-Attention Hierarchical Network for Change Detection on Bitemporal Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024
