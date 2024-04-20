@@ -50,7 +50,3 @@
 
 ## ######################################## Using the code should cite the following paper ######################################## 
 [1] X. Zhang, S. Cheng*, L. Wang and H. Li, "Asymmetric Cross-Attention Hierarchical Network Based on CNN and Transformer for Bitemporal Remote Sensing Images Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023
-
-[2] C. Zhang, L. Wang*, S. Cheng and Y. Li, "SwinSUNet: Pure Transformer Network for Remote Sensing Image Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 1-13.
-
-[3] Di Lu, Shuli Cheng*, Liejun Wang, and Shiji Song. Multi-Scale Feature Progressive Fusion Network for Remote Sensing Image Change Detection. Scientific Reports, 2022, 12:11968.
